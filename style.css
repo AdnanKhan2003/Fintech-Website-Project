@@ -319,6 +319,26 @@ input[type=button] {
 
 
 
+@media (max-width: 568px){
+    .row{
+        width: 85%;
+    }
+    .text-box{
+        top: 8%;
+    }
+    .text-box h1{
+        font-size: 3rem;
+        line-height: 1.5;
+    }
+    .process .row{
+        text-align: center;
+    }
+    .testimony1,
+    .testimony2{
+        padding: 2rem 2rem;
+    }
+}
+
 
 
 
